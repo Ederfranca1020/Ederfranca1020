@@ -11,5 +11,5 @@ Eu sou Eder França, sou programador front end, atualmente estou aprendendo e cr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ederfranca1020)](https://github.com/anuraghazra/github-readme-stats)
 
- - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="link-logo" />
+ - <a href="https://linkedin.com/in/eder-frança"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="link-logo" />
  - <a href="https://facebook.com/eder.franca.12"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-logo"/>
